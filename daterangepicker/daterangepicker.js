@@ -149,12 +149,12 @@
             this.separator = ' - ';
 
             this.locale = {
-                applyLabel: '确定',
-                cancelLabel: '取消',
-                fromLabel: '从',
-                toLabel: '至',
+                applyLabel: 'Apply',
+                cancelLabel: 'Cancel',
+                fromLabel: 'From',
+                toLabel: 'To',
                 weekLabel: 'W',
-                customRangeLabel: '自定义日期范围',
+                customRangeLabel: 'Custom Range',
                 daysOfWeek: moment.weekdaysMin(),
                 monthNames: moment.monthsShort(),
                 firstDay: moment.localeData()._week.dow
